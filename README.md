@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! 👋 I'm wajidpot-png
 
-<!--
-**wajidpot-png/wajidpot-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang visual enthusiast yang suka dengan gambar, desain, dan hal-hal estetik. PNG is my favorite format!
 
-Here are some ideas to get you started:
+## 🖼️ Visual Interests
+- Image processing
+- UI/UX basics
+- Digital design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Creative Side
+Menggabungkan coding dengan seni visual.
+
+Create beautiful things! 🌈
